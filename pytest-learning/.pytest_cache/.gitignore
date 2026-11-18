@@ -1,11 +1,9 @@
-# Created by pytest automatically.
-
 
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Virtual environment
+# Virtual environments
 .venv/
 venv/
 
