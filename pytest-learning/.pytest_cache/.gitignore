@@ -1,0 +1,21 @@
+# Created by pytest automatically.
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
